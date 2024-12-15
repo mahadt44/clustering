@@ -36,7 +36,7 @@ Install these using:
 
 ```bash
 pip install numpy matplotlib scikit-learn
-
+```
 
 ## Features
 
@@ -51,4 +51,4 @@ pip install numpy matplotlib scikit-learn
      - Data points color-coded by cluster.
      - Red markers for cluster centers.
 
----
+
